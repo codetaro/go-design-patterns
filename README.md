@@ -2,8 +2,8 @@
 
 ## 创建型模式
 
-- [x] 工厂方法 [factory method](./factory-method/class.png)
-- [ ] 抽象工厂
+- [x] 工厂方法 [Factory Method](./factory-method/class.png)
+- [x] 抽象工厂 [Abstract Factory](./abstract-factory/class.png)
 - [ ] 生成器
 - [ ] 原型
 - [ ] 单例
