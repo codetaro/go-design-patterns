@@ -4,7 +4,7 @@
 
 - [x] 工厂方法 [Factory Method](./factory-method/class.png)
 - [x] 抽象工厂 [Abstract Factory](./abstract-factory/class.png)
-- [ ] 生成器
+- [x] 生成器 [Builder](./builder/class.png)
 - [ ] 原型
 - [ ] 单例
 
