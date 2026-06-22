@@ -6,7 +6,7 @@
 - [x] 抽象工厂 [Abstract Factory](./abstract-factory/class.png)
 - [x] 生成器 [Builder](./builder/class.png)
 - [x] 原型 [Prototype](./prototype/class.png)
-- [ ] 单例 []()
+- [x] 单例 [Singleton](./singleton/class.png)
 
 ## 结构型模式 structural-patterns
 
