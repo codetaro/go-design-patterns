@@ -10,7 +10,7 @@
 
 ## 结构型模式 structural-patterns
 
-- [ ] 适配器 []()
+- [x] 适配器 [Adapter](./adapter/class.png)
 - [ ] 桥接 []()
 - [ ] 组合 []()
 - [ ] 装饰 []()
